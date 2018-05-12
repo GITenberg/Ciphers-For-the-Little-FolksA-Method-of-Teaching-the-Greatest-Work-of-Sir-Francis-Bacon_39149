@@ -1,0 +1,28 @@
+_repo: Ciphers-For-the-Little-FolksA-Method-of-Teaching-the-Greatest-Work-of-Sir-Francis-Bacon_39149
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crain, Dorothy
+    gutenberg_agent_id: '39866'
+    url: http://www.gutenberg.org/2009/agents/39866
+description: ''
+gutenberg_issued: '2012-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39149'
+  lccn: '17003395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bacon, Francis, 1561-1626 -- Cipher'
+- !lcc 'PR'
+- !lcsh 'Ciphers -- Juvenile literature'
+title: 'Ciphers For the Little Folks
+
+  A Method of Teaching the Greatest Work of Sir Francis Bacon'
+url: http://www.gutenberg.org/ebooks/39149
