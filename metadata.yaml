@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39866'
     url: http://www.gutenberg.org/2009/agents/39866
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39149#Ciphers-For-the-Little-FolksA-Method-of-Teaching-the-Greatest-Work-of-Sir-Francis-Bacon
 gutenberg_issued: '2012-03-15'
 gutenberg_type: Text
 identifiers:
